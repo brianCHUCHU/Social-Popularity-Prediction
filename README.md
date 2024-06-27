@@ -4,7 +4,7 @@ This document presents a study on predicting social media popularity, covering p
 
 ## Quick Links
 
-- [Detailed Analysis Paper](https://github.com/your-repo/Social-Popularity-Prediction/blob/main/Data_Mining_Homework_2.pdf): Detailed analysis and insights are shown in the pdf.
+- [Detailed Analysis Paper](https://github.com/brianCHUCHU/Social-Popularity-Prediction/blob/main/Social%20Popularity%20Prediction.pdf): Detailed analysis and insights are shown in the pdf.
 
 ## Environment Setup
 - To run the provided code, use Kaggle Notebook or Colab (with necessary file path modifications) to utilize CUDA (GPU) for improved efficiency.
